@@ -2,8 +2,8 @@
   "name": "with-redux-toolkit",
   "version": "1.0.0",
   "engines": {
-    "node": "16.15.1",
-    "npm": "8.15.0"
+    "node": "16.x",
+    "npm": "8.x"
   },
   "scripts": {
     "dev": "next",
